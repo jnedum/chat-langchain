@@ -139,3 +139,6 @@ vectorstore.pkl
 python.langchain.com/
 
 .venv
+
+# documents directory
+/documents
